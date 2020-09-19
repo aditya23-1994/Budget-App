@@ -1,7 +1,7 @@
 # :orange_book: Budget-App
 *An app to track your monthy budget and expenses*
 
-## Summary: :timer_clock:
+## :scroll: Summary: 
 
 * :performing_arts: This app is made using **Object Oriented Programming** in ***JavaScript***. 
 * :chess_pawn: The main focus was on ***Scope-Chain***, ***ProtoType-Chain*** and ***Closuers***. 
