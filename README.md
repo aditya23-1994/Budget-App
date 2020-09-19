@@ -1,7 +1,7 @@
 # :orange_book: Budget-App
 *An app to track your monthy budget and expenses*
 
- :fireworks: **Website**: [***The budget app***][https://aditya23-1994.github.io/Budget-App/]
+ :fireworks: **Website**: [***The budget app***](https://aditya23-1994.github.io/Budget-App/)
 
 ## :scroll: Summary: 
 
