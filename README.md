@@ -1,4 +1,4 @@
-# :stadium: Budget-App
+# :orange_book: Budget-App
 *An app to track your monthy budget and expenses*
 
 ## Summary: :timer_clock:
